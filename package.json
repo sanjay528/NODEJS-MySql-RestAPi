@@ -8,6 +8,19 @@
   "dependencies": {
     "express": "3.2.6",
     "jade": "*",
-    "mysql":"*"
-  }
+    "mysql": "*"
+  },
+  "description": "<<<<<<< HEAD",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjay528/NODEJS-MySql-RestAPi.git"
+  },
+  "author": "sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjay528/NODEJS-MySql-RestAPi/issues"
+  },
+  "homepage": "https://github.com/sanjay528/NODEJS-MySql-RestAPi"
 }
