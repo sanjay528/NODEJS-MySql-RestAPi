@@ -5,20 +5,24 @@
 
 
 
-## Usage
+1)	INSTALL NODEJS
+
+sudo apt-get install node
+
+sudo apt-get install npm
+
+2)	go to your application folder
+
+3)	install dependencies-modules using npm 
+
+Ex:npm install mysql
+
+4)	Run project 
+
+node app.js (which file you have run configurations)
 
 
 
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
 =======
 NODEJS-MySql-RestAPi
 ====================
