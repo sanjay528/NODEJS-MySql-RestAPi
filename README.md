@@ -22,6 +22,14 @@ Ex:npm install mysql
 node app.js (which file you have run configurations)
 
 
+nodeJs Project in eclipse
+===============================
+1) navigate File------>New ---->other-->nodeJs Express project ---->
+project name ---> finish  
+
+
+
+
 
 =======
 NODEJS-MySql-RestAPi
